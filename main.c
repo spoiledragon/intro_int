@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hola mundito \n ");
+    //printf("Hola mundito \n ");
     char algo[100];
     unsigned int edad;
 
