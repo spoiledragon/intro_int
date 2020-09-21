@@ -1,0 +1,37 @@
+[33mcommit 9af4b4a294a755d66cc0c81b83957b6e2e6a3480[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: spoiledragon <karlo.gallegos2031@alumnos.udg.mx>
+Date:   Mon Sep 21 14:59:07 2020 -0500
+
+    Revert "se implemento suma y resta ()"
+    se necesita imprimir el hello world
+    This reverts commit 47f1dc8639cadecfebbae378a1fad981c3ac6529.
+
+[33mcommit f2d7067069ce197f198438d683fe374ae127d29d[m
+Author: spoiledragon <karlo.gallegos2031@alumnos.udg.mx>
+Date:   Mon Sep 21 14:58:10 2020 -0500
+
+    comentamos en hola mundo
+
+[33mcommit 47f1dc8639cadecfebbae378a1fad981c3ac6529[m[33m ([m[1;32mfunciones[m[33m)[m
+Author: spoiledragon <karlo.gallegos2031@alumnos.udg.mx>
+Date:   Mon Sep 21 14:50:23 2020 -0500
+
+    se implemento suma y resta ()
+
+[33mcommit 294245699544234931063cd11a6e1f897032e1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: spoiledragon <karlo.gallegos2031@alumnos.udg.mx>
+Date:   Mon Sep 14 13:42:27 2020 -0500
+
+    ahora agregamos la edad y se regresa +1
+
+[33mcommit c547acfb7776d0ecb06c4d9cf22d3722c54450bc[m
+Author: spoiledragon <karlo.gallegos2031@alumnos.udg.mx>
+Date:   Mon Sep 14 13:27:56 2020 -0500
+
+    capturamos nombre completo usando fgets
+
+[33mcommit c4f25eb01cdbf095071b975978cbf6499af7208c[m
+Author: spoiledragon <karlo.gallegos2031@alumnos.udg.mx>
+Date:   Mon Sep 14 13:22:32 2020 -0500
+
+    funciona el hola mundo

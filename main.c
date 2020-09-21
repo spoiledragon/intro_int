@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "Funcion.h"
 
 int main()
 {
@@ -12,6 +13,10 @@ int main()
     printf("Inserta tu edad \n");
     scanf("%u",&edad);
     printf("vas a cumplir %u", edad+1);
+
+    int a,b;
+    printf("Inserte 1 numero \n");
+    scanf("%d",&a);
 
     return 0;
 }
